@@ -1,0 +1,1 @@
+C:\Users\Administrator\Minecraft-Console-Client\MinecraftClient\bin\Release\net7.0\win-x64\publish\MinecraftClient.exe
