@@ -23,3 +23,12 @@
 3. 把主程序放在MCC上层目录
 
 4. 运行
+
+
+## 使用到的其它项目
+
+[Minecraft Console Client](https://github.com/MCCTeam/Minecraft-Console-Client) 我对其进行了一些精简 只保留WebSocket功能
+
+[精易模块](https://gitee.com/elangec/ec)
+
+## 屎山没有塌就可以继续用..但是..塌了 (不支持/几乎无法支持hyt Germmod)
